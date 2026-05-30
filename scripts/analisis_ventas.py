@@ -101,3 +101,5 @@ else:
 print("Análisis completado correctamente.")
 print(f"Ventas totales: ${ventas_totales:.2f}")
 print(f"Producto más vendido: {producto_mas_vendido}")
+
+print("Análisis finalizado correctamente.")
