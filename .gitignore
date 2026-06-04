@@ -1,0 +1,18 @@
+# Carpetas de Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de datos
+*.csv
+*.xlsx
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entorno de Colab
+*.ipynb
